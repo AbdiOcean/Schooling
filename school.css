@@ -22,3 +22,20 @@ h2 {
 p {
     line-height: 30px;
 }
+
+.paragraph {
+    margin: 10px 5px 10px 10px;
+    border: 1px solid blue; 
+    padding: 20px;
+}
+
+.heading {
+    border: 5px solid green;
+    margin: 14px;
+}
+
+.pictures {
+    border: 3px solid yellow;
+    margin: 5px;
+    width: 648px;
+}
