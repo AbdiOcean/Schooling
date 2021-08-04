@@ -1,0 +1,20 @@
+h1 {
+    text-decoration: underline;
+    letter-spacing: 10px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+    font-weight: lighter;
+}
+
+.building{
+    width: 247px;
+}
+
+.motto {
+    height: 247px;
+}
